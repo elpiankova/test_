@@ -1,3 +1,3 @@
 import thsi
 
-print("Hello, wonderful world!")
+print("Hello, wonderful Olena!")
